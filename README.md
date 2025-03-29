@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Akash Kumar 👋
 
-<!--
-**akashkr386/akashkr386** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a web developer with a passion for building responsive and scalable web applications. My focus is on front-end and back-end development, utilizing modern technologies to create seamless user experiences. I also have a solid understanding of C++ and enjoy tackling performance-oriented projects.
 
-Here are some ideas to get you started:
+---
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=akashkr386&theme=radical)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akashkr386&layout=compact&langs_count=6&theme=radical)
+
+---
+
+### 🔭 **About Me**
+
+- **Web Development**: Skilled in front-end development using HTML, CSS, JavaScript, and modern libraries like React. I build full-stack applications with Node.js and Express, and work with databases like MySQL and MongoDB to handle data efficiently.
+- **C++ Programming**: In addition to web development, I also have experience with C++ for system-level programming, algorithm optimization, and performance-critical applications.
+- **Currently working on**: Enhancing my expertise in building dynamic web applications, exploring advanced React features, and building efficient back-end systems with Node.js.
+
+---
+
+### 🛠️ **Technologies & Tools**
+
+#### **Web Development**
+- **Languages**: HTML, CSS, JavaScript (ES6+), TypeScript
+- **Frameworks & Libraries**: React, Node.js, Express, Tailwind CSS
+- **Databases**: MySQL, MongoDB
+- **Version Control**: Git, GitHub
+
+---
+
+### 💬 **Let's Connect**
+
+- 📧 Email: [akashkumar132003@gmail.com](mailto:akashkumar132003@gmail.com)
+- 🌐 LinkedIn: [Akash Kumar](https://www.linkedin.com/in/akash386)
+
+---
+
+---
+
+### ⚡ **Fun Fact**
+
+When I’m not coding, I enjoy learning about emerging technologies, building small electronics projects, and exploring new trends in web development.
